@@ -1,2 +1,2 @@
 # Repository For Projects and Their Files
-- Ayush Kumar Yadav
+- By Ayush Kumar Yadav
